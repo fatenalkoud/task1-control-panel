@@ -7,12 +7,12 @@ Then format with
 I also used
 JavaScript
 The main interface has 6 sliders for each motor according to its number
-motor
-motor
-motor
-motor
-motor
-motor
+motor1
+motor2
+motor3
+motor4
+motor5
+motor6
 
   It also has two buttons
 play button
